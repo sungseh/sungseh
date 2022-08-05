@@ -1,14 +1,14 @@
 👋 Hi, I'm Raymond. 
 
 I am the mythical designer- developer with a few years’ experience leading teams to design and develop technological products.
-I have a passion for UI/ UX designs and mobile application development using Flutter. With a BSc in Computer science, I love 
-working with dynamic teams to build great products and solve complicated problems. With his extensive knowledge of the 
-development, he has created a range of applications, from business directory app to high-quality banking apps. His programming 
-style is creative, thorough, effective, and team-spirited.
+I have a passion for UI/ UX designs and mobile application development using Flutter. I love working with dynamic teams to 
+build great products and solve complicated problems. With his extensive knowledge of the software development, he has created 
+a range of applications, from business directory app to high-quality banking apps. His programming style is creative, thorough, 
+effective, and team-spirited.
 
 Raymond always gets the job done.
 
-I have a passion for building databases and have been doing it for a while mostly with Oracle tools. In recent times, Im looking to up skill to
+[comment]: <>I have a passion for building databases and have been doing it for a while mostly with Oracle tools. In recent times, Im looking to up skill to
 focus mainly on Back-End & API technologies sprinkling a bit of front-end too. I believe a combination of that and my great SQL skills will be flames 🔥🔥 for my skillset. The aim is to have a lot of work with skills Im learning and the ones i already have. 
 
 I also have skills in project/task management building with ClickUp. I have a youtube videos showing tutorials on how to understand & use it (https://www.youtube.com/watch?v=hRC7Imvufi0). When i am not writing code you will find me producing and editing podcasts (https://listentogcr.com) & enjoying life.
