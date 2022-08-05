@@ -32,7 +32,7 @@ https://raymondharrison.com/
 ![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=tailwindcss&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 </br>
 
@@ -50,6 +50,6 @@ https://raymondharrison.com/
 
 
 <!---
-davidadjirackor/davidadjirackor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sungseh/sungseh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
