@@ -1,6 +1,6 @@
 👋 Hi, I'm Raymond. 
 
-I am the mythical designer- developer with a few years’ experience leading teams to design and develop technological products.
+I am the mythical designer-developer with a few years’ experience leading teams to design and develop technological products.
 I have a passion for UI/ UX designs and mobile application development using Flutter. I love working with dynamic teams to 
 build great products and solve complicated problems. With his extensive knowledge of the software development, he has created 
 a range of applications, from business directory app to high-quality banking apps. His programming style is creative, thorough, 
@@ -9,7 +9,7 @@ effective, and team-spirited.
 Raymond always gets the job done.
 
 Want to know more about me? Check my website 🌎
-https://raymondharrison.com/
+https://rssharrison.com/
 
 ## 🔭 I'm currently working on:
 - Building my portfolio Website
