@@ -13,6 +13,7 @@ https://rssharrison.com/
 
 ## 🔭 I'm currently working on:
 - Building my portfolio Website
+- Sharing more of my work on GitHub
 
 
 ## 🌱 I'm currently learning:
